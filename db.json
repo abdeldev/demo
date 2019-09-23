@@ -2,5 +2,1369 @@
     "numaffaire": "15237",
     "nomaffaire": "SwissNano 7",
     "nomclient": "HWAYING IND.GROUP - NEW TAIPEI CITY",
-    "affaire_path": "http://instruct-service"
+    "affaire_path": "http://instruct-service",
+    "items": {
+        "fr": [
+            {
+                "title": "Machine (6)",
+                "items": [
+                    {
+                        "title": "Instructions opérateur (11)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "FEUILLE DE TRANSPORT",
+                                "histo_pdf_cd": "/upload/histo/20190829072843.pdf",
+                                "histo_pdf_name": "20190829072843.pdf",
+                                "pdf_cd": "/upload/pdf/fr298556.pdf",
+                                "pdf_name": "fr298556.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "INSTALLATION",
+                                "histo_pdf_cd": "/upload/histo/20190830112517.pdf",
+                                "histo_pdf_name": "20190830112517.pdf",
+                                "pdf_cd": "/upload/pdf/fr298611.pdf",
+                                "pdf_name": "fr298611.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PRESCRIPTIONS DE SECURITE",
+                                "histo_pdf_cd": "/upload/histo/20190829160947.pdf",
+                                "histo_pdf_name": "20190829160947.pdf",
+                                "pdf_cd": "/upload/pdf/fr298430.pdf",
+                                "pdf_name": "fr298430.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "MANIPULATION interface utilisateur",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298601.pdf",
+                                "pdf_name": "fr298601.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PREREGLAGE OUTILS ISO",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298433.pdf",
+                                "pdf_name": "fr298433.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PROGRAMMATION",
+                                "histo_pdf_cd": "/upload/histo/20190829132340.pdf",
+                                "histo_pdf_name": "20190829132340.pdf",
+                                "pdf_cd": "/upload/pdf/fr298482.pdf",
+                                "pdf_name": "fr298482.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "ENTRETIEN",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298544.pdf",
+                                "pdf_name": "fr298544.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PLAN D'ENTRETIEN",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298494.pdf",
+                                "pdf_name": "fr298494.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "DEPANNAGE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298463.pdf",
+                                "pdf_name": "fr298463.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "CARNET DE BORD",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298458.pdf",
+                                "pdf_name": "fr298458.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "STOCKAGE",
+                                "histo_pdf_cd": "/upload/histo/20190829133235.pdf",
+                                "histo_pdf_name": "20190829133235.pdf",
+                                "pdf_cd": "/upload/pdf/fr298602.pdf",
+                                "pdf_name": "fr298602.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "DECLARATION DE CONFORMITE CE (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "DECLARATION DE CONFORMITE CE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr300860.pdf",
+                                "pdf_name": "fr300860.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Equipement (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "DESCRIPTIF TECHNIQUE",
+                                "histo_pdf_cd": "/upload/histo/20190809142222.pdf",
+                                "histo_pdf_name": "20190809142222.pdf",
+                                "pdf_cd": "/upload/pdf/fr298469.pdf",
+                                "pdf_name": "fr298469.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Spécification (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "SPEC. D'INSTALLATION SYST.D'EXTINCT..",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr298021.pdf",
+                                "pdf_name": "fr298021.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Electrique (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "DOSSIER ELECTRIQUE",
+                                "histo_pdf_cd": "/upload/histo/20190624141801.pdf",
+                                "histo_pdf_name": "20190624141801.pdf",
+                                "pdf_cd": "/upload/pdf/fr298505.pdf",
+                                "pdf_name": "fr298505.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Pièces de rechange (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "PIECES DE RECHANGE MACHINE",
+                                "histo_pdf_cd": "/upload/histo/20190725114806.pdf",
+                                "histo_pdf_name": "20190725114806.pdf",
+                                "pdf_cd": "/upload/pdf/fr298597.pdf",
+                                "pdf_name": "fr298597.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Options disponibles (6)",
+                "items": [
+                    {
+                        "title": "Broche Meyrat HF 22 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr300878.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/fr300878.pdf",
+                                "pdf_name": "fr300878.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Convertisseur broche HF EASY 3.1 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr28299.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/fr28299.pdf",
+                                "pdf_name": "fr28299.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Epurateur de brouillards d'huile CM.. (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr300766.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/fr300766.pdf",
+                                "pdf_name": "fr300766.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Extracteur de fumées LNS Fox WS (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "A199082fr.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/A199082fr.pdf",
+                                "pdf_name": "A199082fr.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Ravitailleur Tryton 107 WI (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr298304.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/fr298304.pdf",
+                                "pdf_name": "fr298304.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Système anti-incendie K&B-a (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr300415a.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/fr300415a.pdf",
+                                "pdf_name": "fr300415a.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Fanuc (2)",
+                "items": [
+                    {
+                        "title": "Fanuc Oi-MF -Tour-Centre Usinage op.. (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi-MF -Tour-Centre Usinage op..",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604FR_01.pdf",
+                                "pdf_name": "B-64604FR_01.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Fanuc Oi MF - Tour- opérateur (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi MF - Tour- opérateur",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604FR-1_01.pdf",
+                                "pdf_name": "B-64604FR-1_01.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Certification (1)",
+                "items": [
+                    {
+                        "title": "fr300860.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr300860.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/certificats/fr300860.pdf",
+                                "pdf_name": "fr300860.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Parametres (8)",
+                "items": [
+                    {
+                        "title": "2170005_CNCIDNUM.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNCIDNUM.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNCIDNUM.TXT.txt",
+                                "pdf_name": "2170005_CNCIDNUM.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_CNC-PARA.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNC-PARA.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNC-PARA.TXT.txt",
+                                "pdf_name": "2170005_CNC-PARA.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_MAINTINF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_MAINTINF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_MAINTINF.TXT.txt",
+                                "pdf_name": "2170005_MAINTINF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMC1_PRM.002.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMC1_PRM.002.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMC1_PRM.002.txt",
+                                "pdf_name": "2170005_PMC1_PRM.002.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMCS_PRM.000.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMCS_PRM.000.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMCS_PRM.000.txt",
+                                "pdf_name": "2170005_PMCS_PRM.000.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SV_SP_ID.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SV_SP_ID.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SV_SP_ID.TXT.txt",
+                                "pdf_name": "2170005_SV_SP_ID.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SYS-CONF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SYS-CONF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SYS-CONF.TXT.txt",
+                                "pdf_name": "2170005_SYS-CONF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_Zones7.tzm.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_Zones7.tzm.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_Zones7.tzm.txt",
+                                "pdf_name": "2170005_Zones7.tzm.txt"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Pièces de rechange (1)",
+                "items": [
+                    {
+                        "title": "fr15237 - SwissNano 7.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "fr15237 - SwissNano 7.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/fr15237 - SwissNano 7.pdf",
+                                "pdf_name": "fr15237 - SwissNano 7.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            }
+        ],
+        "en": [
+            {
+                "title": "Machine (6)",
+                "items": [
+                    {
+                        "title": "Operating Instructions (11)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "TRANSPORT",
+                                "histo_pdf_cd": "/upload/histo/20190829072843.pdf",
+                                "histo_pdf_name": "20190829072843.pdf",
+                                "pdf_cd": "/upload/pdf/fr298556.pdf",
+                                "pdf_name": "fr298556.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "INSTALLATION",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298611.pdf",
+                                "pdf_name": "en298611.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "SAFETY REGULATIONS",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298430.pdf",
+                                "pdf_name": "en298430.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "INTERFACE OPERATION",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298601.pdf",
+                                "pdf_name": "en298601.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PRESETTING TOOLS ISO",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298433.pdf",
+                                "pdf_name": "en298433.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PROGRAMMING",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298482.pdf",
+                                "pdf_name": "en298482.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "MAINTENANCE",
+                                "histo_pdf_cd": "/upload/histo/20190618082118.pdf",
+                                "histo_pdf_name": "20190618082118.pdf",
+                                "pdf_cd": "/upload/pdf/en298544.pdf",
+                                "pdf_name": "en298544.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "MAINTENANCE SCHEDULE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298494.pdf",
+                                "pdf_name": "en298494.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "TROUBLESHOOTING",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298463.pdf",
+                                "pdf_name": "en298463.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "LOGBOOK AND PERIODICAL MAINTENANCE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298458.pdf",
+                                "pdf_name": "en298458.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "STORAGE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298602.pdf",
+                                "pdf_name": "en298602.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "DECLARATION OF CONFORMITY CE (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "DECLARATION OF CONFORMITY CE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en300860.pdf",
+                                "pdf_name": "en300860.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Equipment (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "TECHNICAL DESCRIPTION",
+                                "histo_pdf_cd": "/upload/histo/20190809142222.pdf",
+                                "histo_pdf_name": "20190809142222.pdf",
+                                "pdf_cd": "/upload/pdf/fr298469.pdf",
+                                "pdf_name": "fr298469.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Specification (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "INSTALLATION SPEC. FOR EXTINGUISHIN..",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298021.pdf",
+                                "pdf_name": "en298021.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Electric (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "ELECTRICAL FILE",
+                                "histo_pdf_cd": "/upload/histo/20190624141948.pdf",
+                                "histo_pdf_name": "20190624141948.pdf",
+                                "pdf_cd": "/upload/pdf/en298505.pdf",
+                                "pdf_name": "en298505.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Spare parts (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "MACHINE SPARE PARTS",
+                                "histo_pdf_cd": "/upload/histo/20190725114802.pdf",
+                                "histo_pdf_name": "20190725114802.pdf",
+                                "pdf_cd": "/upload/pdf/en298597.pdf",
+                                "pdf_name": "en298597.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Options available (6)",
+                "items": [
+                    {
+                        "title": "Spindle Meyrat HF 22 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300878.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300878.pdf",
+                                "pdf_name": "en300878.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Micro Spindle Frequency Converter E.. (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en298299.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en298299.pdf",
+                                "pdf_name": "en298299.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Oil mists air filter CMC - SEI (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300766.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300766.pdf",
+                                "pdf_name": "en300766.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Oil mist filter LNS Fox WS (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "A199082en.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/A199082en.pdf",
+                                "pdf_name": "A199082en.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Barfeeder Tryton 107 WI (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en298304.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en298304.pdf",
+                                "pdf_name": "en298304.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Extinguishing system K&B-a (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300415a.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300415a.pdf",
+                                "pdf_name": "en300415a.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Fanuc (2)",
+                "items": [
+                    {
+                        "title": "Fanuc Oi-MF-lathe&center (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi-MF-lathe&center",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604EN_01.pdf",
+                                "pdf_name": "B-64604EN_01.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Fanuc Oi-MF (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi-MF",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604EN-1_01.pdf",
+                                "pdf_name": "B-64604EN-1_01.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Certification (1)",
+                "items": [
+                    {
+                        "title": "en300860.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300860.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/certificats/en300860.pdf",
+                                "pdf_name": "en300860.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Parameters (8)",
+                "items": [
+                    {
+                        "title": "2170005_CNCIDNUM.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNCIDNUM.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNCIDNUM.TXT.txt",
+                                "pdf_name": "2170005_CNCIDNUM.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_CNC-PARA.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNC-PARA.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNC-PARA.TXT.txt",
+                                "pdf_name": "2170005_CNC-PARA.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_MAINTINF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_MAINTINF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_MAINTINF.TXT.txt",
+                                "pdf_name": "2170005_MAINTINF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMC1_PRM.002.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMC1_PRM.002.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMC1_PRM.002.txt",
+                                "pdf_name": "2170005_PMC1_PRM.002.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMCS_PRM.000.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMCS_PRM.000.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMCS_PRM.000.txt",
+                                "pdf_name": "2170005_PMCS_PRM.000.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SV_SP_ID.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SV_SP_ID.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SV_SP_ID.TXT.txt",
+                                "pdf_name": "2170005_SV_SP_ID.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SYS-CONF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SYS-CONF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SYS-CONF.TXT.txt",
+                                "pdf_name": "2170005_SYS-CONF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_Zones7.tzm.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_Zones7.tzm.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_Zones7.tzm.txt",
+                                "pdf_name": "2170005_Zones7.tzm.txt"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Spare parts (1)",
+                "items": [
+                    {
+                        "title": "en15237 - SwissNano 7.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en15237 - SwissNano 7.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en15237 - SwissNano 7.pdf",
+                                "pdf_name": "en15237 - SwissNano 7.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            }
+        ],
+        "zh": [
+            {
+                "title": "機床 (6)",
+                "items": [
+                    {
+                        "title": "操作说明 (11)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "运输",
+                                "histo_pdf_cd": "/upload/histo/20190829072843.pdf",
+                                "histo_pdf_name": "20190829072843.pdf",
+                                "pdf_cd": "/upload/pdf/fr298556.pdf",
+                                "pdf_name": "fr298556.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "安装",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298611.pdf",
+                                "pdf_name": "zh298611.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "安全规定",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298430.pdf",
+                                "pdf_name": "zh298430.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "接口操作",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298601.pdf",
+                                "pdf_name": "zh298601.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "PRESETTING TOOLS ISO",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298433.pdf",
+                                "pdf_name": "zh298433.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "编程",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298482.pdf",
+                                "pdf_name": "zh298482.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "维护",
+                                "histo_pdf_cd": "/upload/histo/20190618144622.pdf",
+                                "histo_pdf_name": "20190618144622.pdf",
+                                "pdf_cd": "/upload/pdf/zh298544.pdf",
+                                "pdf_name": "zh298544.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "维护计划",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298494.pdf",
+                                "pdf_name": "en298494.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "TROUBLESHOOTING",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298463.pdf",
+                                "pdf_name": "zh298463.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "日志与定期维护",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298458.pdf",
+                                "pdf_name": "zh298458.pdf"
+                            },
+                            {
+                                "typedoc": "PDF",
+                                "title": "STORAGE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/zh298602.pdf",
+                                "pdf_name": "zh298602.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "DECLARATION OF CONFORMITY CE (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "DECLARATION OF CONFORMITY CE",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en300860.pdf",
+                                "pdf_name": "en300860.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "设备 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "技术描述",
+                                "histo_pdf_cd": "/upload/histo/20190809142222.pdf",
+                                "histo_pdf_name": "20190809142222.pdf",
+                                "pdf_cd": "/upload/pdf/fr298469.pdf",
+                                "pdf_name": "fr298469.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "规格 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "灭火系统安装规范",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en298021.pdf",
+                                "pdf_name": "en298021.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "电子装置 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "电子文件",
+                                "histo_pdf_cd": "/upload/histo/20190624141948.pdf",
+                                "histo_pdf_name": "20190624141948.pdf",
+                                "pdf_cd": "/upload/pdf/en298505.pdf",
+                                "pdf_name": "en298505.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "备件 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "机器备件",
+                                "histo_pdf_cd": "/upload/histo/20190725114802.pdf",
+                                "histo_pdf_name": "20190725114802.pdf",
+                                "pdf_cd": "/upload/pdf/en298597.pdf",
+                                "pdf_name": "en298597.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "可用选件 (6)",
+                "items": [
+                    {
+                        "title": "Spindle Meyrat HF 22 (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300878.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300878.pdf",
+                                "pdf_name": "en300878.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Micro Spindle Frequency Converter E.. (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en298299.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en298299.pdf",
+                                "pdf_name": "en298299.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Oil mists air filter CMC - SEI (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300766.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300766.pdf",
+                                "pdf_name": "en300766.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Oil mist filter LNS Fox WS (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "A199082en.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/A199082en.pdf",
+                                "pdf_name": "A199082en.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Barfeeder Tryton 107 WI (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en298304.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en298304.pdf",
+                                "pdf_name": "en298304.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Extinguishing system K&B-a (1)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300415a.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/options/en300415a.pdf",
+                                "pdf_name": "en300415a.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "Fanuc (2)",
+                "items": [
+                    {
+                        "title": "Fanuc Oi-MF-lathe&center (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi-MF-lathe&center",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604EN_01.pdf",
+                                "pdf_name": "B-64604EN_01.pdf"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Fanuc Oi-MF (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "Fanuc Oi-MF",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/B-64604EN-1_01.pdf",
+                                "pdf_name": "B-64604EN-1_01.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "认证 (1)",
+                "items": [
+                    {
+                        "title": "en300860.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en300860.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/certificats/en300860.pdf",
+                                "pdf_name": "en300860.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "参数 (8)",
+                "items": [
+                    {
+                        "title": "2170005_CNCIDNUM.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNCIDNUM.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNCIDNUM.TXT.txt",
+                                "pdf_name": "2170005_CNCIDNUM.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_CNC-PARA.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_CNC-PARA.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_CNC-PARA.TXT.txt",
+                                "pdf_name": "2170005_CNC-PARA.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_MAINTINF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_MAINTINF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_MAINTINF.TXT.txt",
+                                "pdf_name": "2170005_MAINTINF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMC1_PRM.002.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMC1_PRM.002.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMC1_PRM.002.txt",
+                                "pdf_name": "2170005_PMC1_PRM.002.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_PMCS_PRM.000.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_PMCS_PRM.000.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_PMCS_PRM.000.txt",
+                                "pdf_name": "2170005_PMCS_PRM.000.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SV_SP_ID.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SV_SP_ID.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SV_SP_ID.TXT.txt",
+                                "pdf_name": "2170005_SV_SP_ID.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_SYS-CONF.TXT.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_SYS-CONF.TXT.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_SYS-CONF.TXT.txt",
+                                "pdf_name": "2170005_SYS-CONF.TXT.txt"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "2170005_Zones7.tzm.txt (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "TexteParam",
+                                "title": "2170005_Zones7.tzm.txt",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/parametre/aff7076/2170005_Zones7.tzm.txt",
+                                "pdf_name": "2170005_Zones7.tzm.txt"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            },
+            {
+                "title": "备件 (1)",
+                "items": [
+                    {
+                        "title": "en15237 - SwissNano 7.pdf (0)",
+                        "items": [],
+                        "docs": [
+                            {
+                                "typedoc": "PDF",
+                                "title": "en15237 - SwissNano 7.pdf",
+                                "histo_pdf_cd": "",
+                                "histo_pdf_name": "",
+                                "pdf_cd": "/upload/pdf/en15237 - SwissNano 7.pdf",
+                                "pdf_name": "en15237 - SwissNano 7.pdf"
+                            }
+                        ]
+                    }
+                ],
+                "docs": []
+            }
+        ]
+    }
 }
